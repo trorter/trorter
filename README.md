@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @trorter
 - 👀 I'm interested in Java, Product management, Software development management
-- 🌱 I’m currently learning System Design and Algorithm
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: an.y.ledov@gmail.com
 
 <!---
